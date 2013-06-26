@@ -18,14 +18,14 @@
 
 ## Objectives:
 
-* Practice using an API as a datasource to populate a file and access information stored in that file.
-
+* Practice using a complex API as a datasource 
+* 
 ## Story
-A user should be able to see Tweets from a valid public twitter user
-A user should be able to use a form to input the username of the twitter user
-A user should be able to see images attached to a tweet if they exist
-A user should be able to click through to the original tweet on Twitter
-A user should see basic public information about the queried user
+* A user should be able to see Tweets from a valid public twitter user
+* A user should be able to use a form to input the username of the twitter user
+* A user should be able to see images attached to a tweet if they exist
+* A user should be able to click through to the original tweet on Twitter
+* A user should see basic public information about the queried user
 
 ### Bonus
 * A user should be able to see tweets another user has marked a 'favorite' on Twitter
