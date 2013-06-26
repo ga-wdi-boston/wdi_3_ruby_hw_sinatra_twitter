@@ -33,6 +33,7 @@ A user should be able to see tweets another user has marked a 'favorite' on Twit
 ## Activity:
 
 * Create a Sinatra application that fulfills the needs of the user story listed above
+* The /tweets route should *optionally* accept a username as a parameter. Refer to the Sinatra docs for how to do optional parameters
 * No CSV files needed
 * If the bonus requirements of TV Series are stored
 * Add a logo to your site as a static image stored in the /public directory
