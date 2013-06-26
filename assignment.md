@@ -28,7 +28,9 @@ A user should be able to click through to the original tweet on Twitter
 A user should see basic public information about the queried user
 
 ### Bonus
-A user should be able to see tweets another user has marked a 'favorite' on Twitter
+* A user should be able to see tweets another user has marked a 'favorite' on Twitter
+* Write a "Rake task" (which you have a stub of here) that will save all of a user's tweets to a CSV file (you can only grab up to ~3600 tweets from any given user).
+
 
 ## Activity:
 
