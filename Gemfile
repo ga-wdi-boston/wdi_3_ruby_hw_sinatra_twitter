@@ -1,3 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'imdb'
+gem 'twitter'
+gem 'dotenv'
